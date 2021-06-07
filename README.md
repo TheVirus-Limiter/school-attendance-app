@@ -2,7 +2,7 @@
 
 Don't forget to unzip!
 
-You need [node.js](nodejs.org) to run this app. 
+You need [node.js](https://nodejs.org) to run this app. 
 
 Then run: npm i --force
 
